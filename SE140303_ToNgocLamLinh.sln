@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE140303_ToNgocLamLinh_PE01", "SE140303_ToNgocLamLinh_PE01\SE140303_ToNgocLamLinh_PE01.csproj", "{C4AB6E34-589B-48EF-A8DB-1EBEE5B8C5C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentAssemblies", "StudentAssemblies\StudentAssemblies.csproj", "{BD29C82F-5F76-4676-8B22-1A2FFBBE25D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4AB6E34-589B-48EF-A8DB-1EBEE5B8C5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4AB6E34-589B-48EF-A8DB-1EBEE5B8C5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4AB6E34-589B-48EF-A8DB-1EBEE5B8C5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4AB6E34-589B-48EF-A8DB-1EBEE5B8C5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD29C82F-5F76-4676-8B22-1A2FFBBE25D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD29C82F-5F76-4676-8B22-1A2FFBBE25D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD29C82F-5F76-4676-8B22-1A2FFBBE25D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD29C82F-5F76-4676-8B22-1A2FFBBE25D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C03D4B9-B92B-4457-B03B-D675D284EE59}
+	EndGlobalSection
+EndGlobal
